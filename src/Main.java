@@ -14,6 +14,12 @@ public class Main {
         } else {
             System.out.println(1/a);
         }
+
+        //task*
+        int n = 20;
+        for (int i = 0; i < n; i--) {
+            System.out.println("*");
+        }
     }
 
 }
